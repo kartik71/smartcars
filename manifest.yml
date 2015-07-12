@@ -1,7 +1,7 @@
 applications:
-- host: <your app host>
+- host: smartcars
   disk: 128M
-  name: <your app name>
+  name: smartcars
   command: node app.js
   path: .
   domain: mybluemix.net
