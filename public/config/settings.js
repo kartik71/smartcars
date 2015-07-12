@@ -25,7 +25,7 @@ var config = {
 		{ deviceId: "GHI", token: "uU_&9agQkv?4y&63v_
 " }
 	],
-	iot_apiKey: "a-jdwkfn-3yz77s3rwg",    // replace with the key for a generated API token
+	iot_apiKey: "a-jdwkfn-qidysy4crk",    // replace with the key for a generated API token
 	iot_apiToken: "u6N0GOD3&fhEx5Ne+i",  // replace with the generated API token
 
 	// these topics will be used by Geospatial Analytics
